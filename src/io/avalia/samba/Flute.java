@@ -1,6 +1,6 @@
 package io.avalia.samba;
 
-public class Flute {
+public class Flute implements IInstrument {
 
 	public String play() {
 		return "flu";

@@ -1,6 +1,6 @@
 package io.avalia.samba;
 
-public class Trumpet implements IInstrument {
+public class Trumpet {
 
 	public String play() {
 		return null;

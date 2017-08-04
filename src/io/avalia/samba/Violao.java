@@ -4,7 +4,7 @@ public class Violao implements IInstrument {
 
 	@Override
 	public String play() {
-		return "tan";
+		return "plim";
 	}
 
 	@Override
@@ -14,7 +14,7 @@ public class Violao implements IInstrument {
 
 	@Override
 	public String getColor() {
-		return "brown";
+		return "dark";
 	}
 
 }
